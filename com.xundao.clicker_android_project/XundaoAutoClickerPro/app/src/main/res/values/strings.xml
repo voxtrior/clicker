@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">自动点击器高级版</string>
-    <string name="accessibility_service_label">自动点击器高级版无障碍服务</string>
-    <string name="accessibility_service_description">用于执行屏幕自动点击、长按与多点滑动手势操作，不会收集任何个人隐私数据。</string>
-</resources>

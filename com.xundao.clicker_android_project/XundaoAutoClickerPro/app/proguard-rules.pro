@@ -1,3 +1,0 @@
--keepattributes *Annotation*
--keep class com.xundao.clicker.model.** { *; }
--keep class com.xundao.clicker.service.AutoClickAccessibilityService { *; }
