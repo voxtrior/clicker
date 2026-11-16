@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">自动点击器高级版</string>
-    <string name="accessibility_service_label">自动点击器高级版（毫秒授时定点连点）</string>
-    <string name="accessibility_service_description">用于同步京东/阿里等服务器毫秒时间并在指定时刻自动执行屏幕坐标点击手势，不收集任何个人数据。</string>
-</resources>
